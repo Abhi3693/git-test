@@ -3,3 +3,9 @@ function first(str) {
 }
 
 console.log(first("How are you?"));
+
+function feature2() {
+  return "feature2";
+}
+
+console.log(feature2());
