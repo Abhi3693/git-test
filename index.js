@@ -16,3 +16,9 @@ function feature3() {
 }
 
 console.log(feature3("Did you have dinner?"));
+
+function feature4() {
+  return "feature3";
+}
+
+console.log(feature4("Did you have dinner?"));
